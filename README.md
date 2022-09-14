@@ -1,4 +1,4 @@
-# AIML_Filter_Selection
+# Filter Selection via OMP
 
 ##  Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit
 Pytorch Implementation of the following paper: "Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit", AIMLSystems 2022.
