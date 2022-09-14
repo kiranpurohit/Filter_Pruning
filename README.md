@@ -5,7 +5,7 @@ Pytorch Implementation of the following paper:
 
 "Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit", AIMLSystems 2022.
 
-Kiran Purohit, Anurag Parvathgari, Soumi Das, Sourangshu Bhattacharya
+Kiran Purohit, Anurag Parvathgari, Soumi Das and Sourangshu Bhattacharya
 
 
 ### Overview
