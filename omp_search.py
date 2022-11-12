@@ -75,7 +75,7 @@ def main():
     model = resnet.resnet32()
     model = model.to(device)
 
-    args.checkpoint = './models/best_base_cifar100.pth'
+    args.checkpoint = './models/best_base_cifar100_32.pth'
 
     #model = nn.DataParallel(model, device_ids=args.gpu).cuda()
     checkpoint = torch.load(args.checkpoint, map_location='cuda:0')
