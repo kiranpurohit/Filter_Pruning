@@ -2,7 +2,9 @@
 Pytorch Implementation of the following paper: 
 
 "Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit", AIMLSystems 2022.
-https://dl.acm.org/doi/abs/10.1145/3564121.3564139
+https://dl.acm.org/doi/pdf/10.1145/3564121.3564139
+
+Project Page: https://kiranpurohit.github.io/FilterPruning/
 
 
 ### Overview
